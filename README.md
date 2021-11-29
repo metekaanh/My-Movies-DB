@@ -8,7 +8,3 @@ and open second terminal:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 84670f9f90131a6fd1e5a1451a08dd62ffff6121
