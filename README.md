@@ -1,4 +1,11 @@
+*******************************************
 
+!!!!!WARNING!!!!!
+
+If Project can't run; Please you can run:
+### `npm install`
+
+********************************************
 
 In the project directory, you can run:
 ### `npx json-server --watch src/api/movies.json --port 3002`
